@@ -11,3 +11,6 @@ I think my Artificial Intelegence (AI) app can help schools be more advanced bec
 
 # September 22, 2025
 I think a virtual job in roblox would be a good way for teens to earn money. IKEA could have 9 to 10 people working to stock shelves this can help a lot of people earn money. People working on the go, at home, or even on vacation can use the IKEA roblox game to pay for groceries, clothes, and shoes. employees who work can get promoted to higher departments which can be helpful to people who work hard. This can either be really good or really bad it depends on how people treat this new virtual job. I difinitely would work at IKEA on roblox to earn extra cash.    
+
+# September 30, 2025
+The phrase 6-7 often said during class is a meme that was created on tiktok, youtube, and instagram. The person who first said it was a basketball player on a AAU team for Rod Wave Elite. One day they were at a basketball game and they filmed the crowd. One kid stood out and said 6-7. Later people made memes of it. He then became a meme.
