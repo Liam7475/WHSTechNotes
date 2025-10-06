@@ -14,3 +14,6 @@ I think a virtual job in roblox would be a good way for teens to earn money. IKE
 
 # September 30, 2025
 The phrase 6-7 often said during class is a meme that was created on tiktok, youtube, and instagram. The person who first said it was a basketball player on a AAU team for Rod Wave Elite. One day they were at a basketball game and they filmed the crowd. One kid stood out and said 6-7. Later people made memes of it. He then became a meme.
+
+# October 6, 2025 
+If i was in charge of my own school i would probably ban Ai and not allow cell phones, I would still allow games to be played on the chromebooks. I would ban Ai like chatGPT, Gauth Ai, Question Ai, and SolveX.Ai because this can ruin kids learning skills and wont help them learn anything. I would ban Phones and only let students use them incase of emergency for they're safety. I would not ban Games because when students are finished with there work they can keep themselves busy buy playing Cool Math Gmaes, Totally Science, and much more. I would let students use they're phones at lunch becuase who likes eating without their phone. I would hope my students like these policies for my school and like me if I was in charge.   
