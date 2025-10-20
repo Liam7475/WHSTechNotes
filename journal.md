@@ -26,3 +26,12 @@ This is my prompt for may edu math game, give me a educational game about math p
 https://liamedumath.my.canva.site/
 ## Reflection
 After making my own math educational game my prompt was designed to help students with there math and ultimitaly help them in general making their brains stronger. The canva design interpreted an math like deisgn while still keeping it not like a elementrary game. Honestly all of the interacted parts work best the begining, middle, and the end. In the begining it asks for your name, how you feel about math, and what are your biggest goals are for math. During the math games if you get one right the computer cheers for you, but if you get one wrong it tells its not right but to keep trying and soon you'll get it right. At the end the of the quiz you can either take it again with different problems or take another topic the student is the one that chosses there path. Ultimately I designed this game to help high schoolers improve their learning skills for later in the future or even now. 
+
+# October 20, 2025
+| Name     | Class | Seat |
+| :------- | :---- | :--- |
+| Franklin | second |  91A |
+| Hardeep  | third  |  61F |
+| Marla    | first  |  35B |
+
+----
