@@ -35,3 +35,11 @@ After making my own math educational game my prompt was designed to help student
 | Marla    | first  |  35B |
 
 ----
+# October 28, 2025
+| Name     | Main Dish | Dessert |
+| :------- | :-------- | :------ |
+| Fiona    |  gado gado|creme brulee|
+| Tobias   |shrimp ceviche|french apple cake|
+| Leanne   |beef wellington|rasberry tiramisu|
+
+----
