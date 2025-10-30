@@ -18,7 +18,7 @@ The phrase 6-7 often said during class is a meme that was created on tiktok, you
 # October 6, 2025 
 If i was in charge of my own school i would probably ban Ai and not allow cell phones, I would still allow games to be played on the chromebooks. I would ban Ai like chatGPT, Gauth Ai, Question Ai, and SolveX.Ai because this can ruin kids learning skills and wont help them learn anything. I would ban Phones and only let students use them incase of emergency for they're safety. I would not ban Games because when students are finished with there work they can keep themselves busy buy playing Cool Math Gmaes, Totally Science, and much more. I would let students use they're phones at lunch becuase who likes eating without their phone. I would hope my students like these policies for my school and like me if I was in charge.
 
-# October 14 2025 
+# October 14, 2025 
 
 ## Prompt
 This is my prompt for may edu math game, give me a educational game about math problems and how it can help students learn. make sure to let the user answer and solve the problems and this is for high school students so put the grade level to 9+ . make sure to have interactable side questions about there name and if they like math. at the end of them answering questions give them a 10 question quiz and let them pick which path they take here are examples multiplication, addition, subtraction, converting fractions into decimals and graphing points.
