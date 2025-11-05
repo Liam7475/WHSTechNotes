@@ -43,3 +43,6 @@ After making my own math educational game my prompt was designed to help student
 | Leanne   |beef wellington|rasberry tiramisu|
 
 ----
+
+# November 9, 2025
+When SNAP runs out of funding, many families struggle to afford groceries, and the people most affected are low income families, children, and the elderly. Technology could help by connecting people to food banks, free meal programs, and grocery discounts through an app or website. It could also show maps, hours of operation, and updates on food availibility. However, a challenge is that not everyone has internet access or a smartphone to use tech based tools. Some people may also worry about sharing their personal information online. If I were designing a solution, I would create an app called FoodLink that alerts people to nearby food resources quickly and reliably.
