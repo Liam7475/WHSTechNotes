@@ -49,3 +49,7 @@ When SNAP runs out of funding, many families struggle to afford groceries, and t
 
 # November 10, 2025
 Technology has changed the way people celebrate the holidays by making it easier to connect with family and friends even when they are far away. For example, video calls, group chats, and social media allow people to share moments and stay in touch during holiday gatherings. However, these changes can sometimes make holidays feel less peresonal, because people may spend more time on their devices than talking face to face. I think technology makes holidays better when its used to bring people together, but worse when it distacts them from real time with familly time, like limiting notifications or adding family mode features. This would help people stay connected without taking away from the meaning of the holidays. 
+
+# November 17, 2025 
+
+Yes, I am looking forward to Thanksgiving break. Ill help my mom with the turkey and the macaroni and cheese maybe the stuffing to, but im deffinetly sleeping in next week.
