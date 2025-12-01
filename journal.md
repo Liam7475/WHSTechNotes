@@ -53,3 +53,6 @@ Technology has changed the way people celebrate the holidays by making it easier
 # November 17, 2025 
 
 Yes, I am looking forward to Thanksgiving break. Ill help my mom with the turkey and the macaroni and cheese maybe the stuffing to, but im deffinetly sleeping in next week.
+
+# December 1, 2025 
+One job that uses drones is a drone delivery operator, which is the person who controls and monitors delivery drones for companies. programmers help by the software that tells the drones how to fly, avoid obstacles, and reach the right location. I found on the U.S. Bureau of Labor Statistics website that drone operators make around $99,000 a year on average, which suprised me because I didn't think it would be that high. To do this job, most people need a Part 107 drone license from the FAA and some training with flight systems. I think this job could be interesting because it mixes technology with real-world problem solving. But I'm not completely sure if I'd want to do it, becuase it seems like it requires a lot of responsibility when dealing with expensive equipment. 
