@@ -62,3 +62,6 @@ A self driving car might a miss a stopped school bus if its cameras sensors get 
 
 # December 15, 2025
 Im going to be help wrap gifts buy my family members presents and eat and drink cookies and hot coco. 
+
+# January 6, 2026 
+During the break, I spent most of my free time on my PS5 and phone. I enjoyed playing different games on my PS5, which helped me unwind after a busy few months. Some days, I played online with friends, and we had a lot of fun competing and talking while we played. When I wasn’t gaming, I was usually on my phone catching up on social media or watching videos. I also used my phone to stay in touch with friends and family through messages and calls. Overall, using my PS5 and phone made my break relaxing, fun, and full of good memories.
