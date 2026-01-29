@@ -71,3 +71,6 @@ Autocraft was created to give autistic children and their families a safe place 
 
 # January 20, 2026
 One way technology can help create fairness is by giving more people a voice online. This matters because some people do not always feel safe or heard when speaking in person. Social media and online platforms allow people to share their experiances and bring attention to unfair treatment. An example of this could be students using school websites or apps to report bullying anonymously. This use of technology helps because it allows problems to be reported without fear of shared online, leaders and communities can respond faster and work toward fair solutions. 
+
+# January 29, 2026
+I took the Map test on tuesday and it was the English and Language tests. I scored a good number and everything went well until I was done I was bored and had to wait till lunch to talk to my friends. Nothing felt challenging everything was fairly easy and simple. I would say nothing, but honestly language and writing. 
