@@ -74,3 +74,6 @@ One way technology can help create fairness is by giving more people a voice onl
 
 # January 29, 2026
 I took the Map test on tuesday and it was the English and Language tests. I scored a good number and everything went well until I was done I was bored and had to wait till lunch to talk to my friends. Nothing felt challenging everything was fairly easy and simple. I would say nothing, but honestly language and writing. 
+
+# February 2, 2026 
+Professional behavior in shared spaces matters because things like hygiene, noise level, and self control can affect how comfortable and focused others feel. One habit I can improve is being more aware of my volume and actions so I am respectful of everyone around me. 
