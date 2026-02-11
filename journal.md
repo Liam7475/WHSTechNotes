@@ -77,3 +77,6 @@ I took the Map test on tuesday and it was the English and Language tests. I scor
 
 # February 2, 2026 
 Professional behavior in shared spaces matters because things like hygiene, noise level, and self control can affect how comfortable and focused others feel. One habit I can improve is being more aware of my volume and actions so I am respectful of everyone around me. 
+
+# February 11, 2026
+Yes, I did enjoy the football game on sunday it was alright but the game could've been better. Yes I did watch super bowl LX it was a nice game to watch but i feel like it was short. My opinion on the super bowl is that the half time show was amazing amd great but the game just felt rigged or not real. 
