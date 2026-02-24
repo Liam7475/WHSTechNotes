@@ -80,3 +80,6 @@ Professional behavior in shared spaces matters because things like hygiene, nois
 
 # February 11, 2026
 Yes, I did enjoy the football game on sunday it was alright but the game could've been better. Yes I did watch super bowl LX it was a nice game to watch but i feel like it was short. My opinion on the super bowl is that the half time show was amazing amd great but the game just felt rigged or not real. 
+
+# February 24, 2026
+I think the most important technology at the 2026 Winter Olympics was high speed timing because it improved fairness. It was used in events like speed skating and skiing to record exact finish times, even down to hundredths of a second. This made the results more accurate and fair, especially in very close races, so the right athlete won. 
