@@ -83,3 +83,27 @@ Yes, I did enjoy the football game on sunday it was alright but the game could'v
 
 # February 24, 2026
 I think the most important technology at the 2026 Winter Olympics was high speed timing because it improved fairness. It was used in events like speed skating and skiing to record exact finish times, even down to hundredths of a second. This made the results more accurate and fair, especially in very close races, so the right athlete won. 
+
+# March 2, 2026
+Part A 
+I chose two different tech jobs from two different companies in San Antonio. USAA and Rackspace Technology 
+Part B 
+Job 1
+Company: USAA
+Job Title: Software Engineer 
+Education Required: Bachelor's degree in Computer Science or a related field 
+Experience Required: 1-3 years of coding or internship experience 
+Skills / Tools / Languages: Java, Python, Git, problem solving, teamwork
+Certifications (if any): None required, but cloud or Agile certifications are helpful 
+What the job does (1–2 sentences): Builds and fixes software used by customers and employees. Tests programs and works with a team to improve apps and systems. 
+Job 2 
+Company: Rackspace Technology 
+Job Title: Cloud/ Site Reliability Engineer 
+Education Required: Bachelor's degree in Information Technology, Computer Science, or related field  
+Experience Required: 2+ years working with cloud systems or IT support
+Skills / Tools / Languages: AWS or Azure, Linux, scripting (Python or Bash), system monitoring 
+Certifications (if any): AWS Certified Cloud Practitioner or similar (preferred) 
+What the job does (1–2 sentences): Keeps cloud systems running smoothly and fixes problems quickly. Monitors performances and makles sure websites and services stay online 
+Part C 
+I would prefer the Software Engineer job at USAA. One reason is that this job requires a Bachelor's degree in computer science and skills in coding languages like Java or Python. Another reason is that the job focuses on building and improving software, which requires problem solving and teamwork. These requirements match my interests because I like working with technology and learning how programs work. I also enjoy solving problems and figuring out how to fix things. Taking computer or technology classes now can help me prepare for this carrer growth and good oppurtunities in the tech field. Overall, becoming a software engineer fits my goals and interests. 
+
