@@ -107,3 +107,4 @@ What the job does (1–2 sentences): Keeps cloud systems running smoothly and fi
 ## Part C 
 I would prefer the Software Engineer job at USAA. One reason is that this job requires a Bachelor's degree in computer science and skills in coding languages like Java or Python. Another reason is that the job focuses on building and improving software, which requires problem solving and teamwork. These requirements match my interests because I like working with technology and learning how programs work. I also enjoy solving problems and figuring out how to fix things. Taking computer or technology classes now can help me prepare for this carrer growth and good oppurtunities in the tech field. Overall, becoming a software engineer fits my goals and interests. 
 
+# March, 23 2026 
