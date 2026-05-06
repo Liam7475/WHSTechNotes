@@ -129,3 +129,6 @@ AI is changing how people experience and trust music and media, and it does matt
 
 # April 27, 2026
 Technology had a big influence on gaming this week because it made playing easier and more fun. I used my phone and console to check game updates and watch clips online. I also used messages and party chat to plan when my friends were getting on. This shows that technology helps people communicate quickly and stay connected. Without the internet and apps, gaming would be slower and less enjoyable. Overall, technology improved my week by making entertainment easier and more social. “I used AI to assist with this entry.”
+
+# May 6, 2026
+I think I am helping train AI without knowing it. When I use apps like ChatGPT, TikTok, and Google, they track what I type and click. Even when I do reCAPTCHA, I am picking images that help AI learn. This means my actions are giving data like my choices, searches, and interests. Companies can use this data to make AI smarter and more accurate. It also helps them show me better videos and answers. Knowing this makes me think more about what I do online.
