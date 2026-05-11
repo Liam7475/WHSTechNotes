@@ -132,3 +132,6 @@ Technology had a big influence on gaming this week because it made playing easie
 
 # May 6, 2026
 I think I am helping train AI without knowing it. When I use apps like ChatGPT, TikTok, and Google, they track what I type and click. Even when I do reCAPTCHA, I am picking images that help AI learn. This means my actions are giving data like my choices, searches, and interests. Companies can use this data to make AI smarter and more accurate. It also helps them show me better videos and answers. Knowing this makes me think more about what I do online.
+
+# May 11,2026
+This school year, I think I grew the most in responsibility. At the start of the year, I would wait until the last minute to finish work and sometimes forget important things. Over time, school and other responsibilities helped me become more organized. I started turning in assignments on time and paying more attention in class. One example of this change is that I began planning my work ahead instead of rushing everything in one night. I also learned how to balance school with my personal life better. Compared to the beginning of the year, I feel more mature and more responsible now.
